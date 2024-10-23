@@ -12,7 +12,8 @@ public class LogicalOperator {
 		
 		boolean isDay = true;
 		boolean isNight = false;
-		System.out.println("is it night"  + " "+ !isDay);
+		System.out.println("it is night"  + " "+ !isDay);
+		
 		
 		
 

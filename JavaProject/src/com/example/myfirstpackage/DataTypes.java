@@ -1,9 +1,9 @@
 package com.example.myfirstpackage;
 
-class car{
+class Car{
 	String brand;
 	int year;
-	car(String b, int y){
+	Car(String b, int y){
 		this.brand =b; // reference to the current object within the instance 
 		this.year = y;
 	}
